@@ -5,5 +5,6 @@ class wEr
 	{
 		file = "Functions";
 		class playerSpawn {Description="This is player spawn"};
+		class heal {};
 	};
 };
